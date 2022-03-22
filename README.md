@@ -2,7 +2,7 @@
 - 👀 I’m interested in medicine and clinical data
 - 🌱 I’m currently learning R programming
 - 💞️ I’m looking to collaborate on anything you might need help with
-- 📫 How to reach me ...
+- 📫 How to reach me silvia.silviamarchesi@gmail.com
 
 <!---
 SilviaMarx/SilviaMarx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
